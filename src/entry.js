@@ -155,7 +155,6 @@ const components = [
   ElPopover,
   ElPopconfirm,
   ElCard,
-  ElCarousel,
   ElCollapse,
   ElCollapseItem,
   ElTimeline,
